@@ -19,20 +19,20 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_ble/nrf52840
+  - board: xiao_ble
     shield: relic_left
 
   ## To build with ZMK Studio support, uncomment the following block
   ## by removing the leading '#' from each line.
 
-  - board: seeeduino_xiao_ble/nrf52840
+  - board: xiao_ble
     shield: relic_left
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: relic_left_with_studio
 
-  - board: seeeduino_xiao_ble/nrf52840
+  - board: xiao_ble
     shield: relic_right
 
-  - board: seeeduino_xiao_ble/nrf52840
+  - board: xiao_ble
     shield: settings_reset
