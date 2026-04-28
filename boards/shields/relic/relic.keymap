@@ -18,5 +18,25 @@
                 &none  &none  &kp C  &kp D  &kp E  &kp F  &kp G  &kp H  &none  &none
             >;
         };
+
+        fn_layer {
+            status = "reserved";
+        };
+
+        num_layer {
+            status = "reserved";
+        };
+
+        extra1 {
+            status = "reserved";
+        };
+
+        extra2 {
+            status = "reserved";
+        };
+
+        extra3 {
+            status = "reserved";
+        };
     };
 };
