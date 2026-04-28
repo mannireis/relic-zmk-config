@@ -1,3 +1,5 @@
+# Kconfig for relic keyboard shield
+
 config SHIELD_RELIC_LEFT
     def_bool $(shields_list_contains,relic_left)
 
