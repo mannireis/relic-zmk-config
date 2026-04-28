@@ -17,7 +17,7 @@ features:
   - studio # Remove this line if your keyboard will not support ZMK Studio
 
 requires:
-  - seeed_xiao
+  - xiao_ble
 
 siblings:
   - relic_left
