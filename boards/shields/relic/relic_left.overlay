@@ -3,8 +3,3 @@
 // instructions.
 
 #include "relic.dtsi"
-
-&kscan {
-    // Replace these comments with the GPIO pins in the matrix for the left side.
-    // See https://zmk.dev/docs/development/hardware-integration/new-shield#shield-overlays
-};
