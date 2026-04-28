@@ -1,1 +1,4 @@
-name: relic-zmk-config
+name: zmk-keyboard-relic
+build:
+  settings:
+    board_root: .
