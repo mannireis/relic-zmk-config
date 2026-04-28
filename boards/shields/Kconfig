@@ -1,2 +1,0 @@
-source "boards/shields/relic/Kconfig.shield"
-source "boards/shields/relic/Kconfig.defconfig"
